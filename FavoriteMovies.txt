@@ -1,0 +1,18 @@
+Here is a new text file.
+
+Favorite Movie List:
+Star Wars
+Empire Strikes Back
+Return of the Jedi
+Fellowship of the Ring
+The Two Towers
+The Return of the King
+
+Batman Begins
+The Dark Knight
+The Dark Knight Returns
+
+Sideways
+Real Genius
+
+Ironman
